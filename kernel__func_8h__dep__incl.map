@@ -1,0 +1,20 @@
+<map id="kernel_func.h" name="kernel_func.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="241,5,350,31"/>
+<area shape="rect" id="Node000002" href="$cmd__table_8h.html" title=" " alt="" coords="5,79,108,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="245,37,96,81,95,76,243,32"/>
+<area shape="rect" id="Node000003" href="$shell_8c.html" title=" " alt="" coords="70,152,134,177"/>
+<area shape="poly" id="edge9_Node000001_Node000003" title=" " alt="" coords="250,38,211,57,173,81,136,118,111,153,107,150,132,115,170,77,208,52,248,33"/>
+<area shape="rect" id="Node000004" href="$kernel_8c.html" title=" " alt="" coords="184,79,257,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="275,42,235,80,231,77,272,38"/>
+<area shape="rect" id="Node000005" href="$mem__info_8h.html" title=" " alt="" coords="333,79,433,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="322,37,371,76,367,81,318,41"/>
+<area shape="rect" id="Node000006" href="$page__alloc_8c.html" title=" " alt="" coords="257,152,360,177"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="300,44,310,152,305,152,295,45"/>
+<area shape="rect" id="Node000007" href="$scheduler_8c.html" title=" " alt="" coords="411,152,505,177"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="364,28,409,46,430,59,448,77,458,96,463,116,462,152,457,152,457,117,453,97,444,80,427,64,407,50,362,33"/>
+<area shape="rect" id="Node000008" href="$usr__mode_8c.html" title=" " alt="" coords="509,79,607,104"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="351,32,516,76,515,81,350,37"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="74,114,97,150,92,153,69,117"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="363,115,323,154,319,150,360,111"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="407,111,448,150,444,154,403,115"/>
+</map>

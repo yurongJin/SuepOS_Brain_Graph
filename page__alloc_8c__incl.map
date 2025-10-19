@@ -1,0 +1,14 @@
+<map id="page_alloc.c" name="page_alloc.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="105,5,208,31"/>
+<area shape="rect" id="Node000002" href="$kernel__func_8h.html" title=" " alt="" coords="102,152,211,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,32,144,64,141,84,142,104,150,138,145,139,137,104,136,84,139,63,149,30"/>
+<area shape="rect" id="Node000006" href="$mem__info_8h.html" title=" " alt="" coords="151,79,251,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="166,30,189,66,184,68,162,32"/>
+<area shape="rect" id="Node000003" href="$type_8h.html" title=" " alt="" coords="5,225,68,251"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="139,180,70,220,67,216,136,175"/>
+<area shape="rect" id="Node000004" href="$hardware__conf_8h.html" title=" " alt="" coords="92,225,221,251"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="159,178,159,212,154,212,154,178"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="246,225,321,251"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="178,175,252,216,249,221,176,180"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="196,106,173,142,169,139,191,103"/>
+</map>

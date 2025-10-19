@@ -1,0 +1,7 @@
+<map id="cmd_clear" name="cmd_clear">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,95,31"/>
+<area shape="rect" id="Node000002" href="$uart0_8c.html#a89c96d63eef7f80bf4e7d1f7f5c31de0" title=" " alt="" coords="143,5,271,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,15,129,15,129,21,95,21"/>
+<area shape="rect" id="Node000003" href="$uart0_8c.html#a25101a6b344e02d840568ef3d33b5b08" title=" " alt="" coords="319,5,437,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="271,15,305,15,305,21,271,21"/>
+</map>

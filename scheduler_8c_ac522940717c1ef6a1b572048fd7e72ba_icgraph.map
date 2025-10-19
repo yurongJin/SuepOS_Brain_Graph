@@ -1,0 +1,15 @@
+<map id="remove_from_queue" name="remove_from_queue">
+<area shape="rect" id="Node000001" title=" " alt="" coords="451,55,608,80"/>
+<area shape="rect" id="Node000002" href="$scheduler_8c.html#aebdb54e5e3307f27106f43a7c4d3536c" title=" " alt="" coords="299,55,403,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="437,70,403,70,403,65,437,65"/>
+<area shape="rect" id="Node000003" href="$usr__mode_8c.html#a78a1dd5e8e2853c3dcd5f2d4da57159a" title=" " alt="" coords="152,5,251,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="298,53,240,33,242,28,300,48"/>
+<area shape="rect" id="Node000005" href="$usr__mode_8c.html#acae953474a792b181887214714dcb862" title=" " alt="" coords="152,55,251,80"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="285,70,251,70,251,65,285,65"/>
+<area shape="rect" id="Node000006" href="$usr__mode_8c.html#ab96d1aab428fad484e42d6180ece7424" title=" " alt="" coords="152,104,251,129"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="300,87,242,106,240,101,298,82"/>
+<area shape="rect" id="Node000004" href="$kernel_8c.html#aa75cd82293c8f20da246e44d5da5f2b5" title=" " alt="" coords="5,55,104,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="151,38,94,57,93,52,149,33"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="138,70,104,70,104,65,138,65"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="149,102,93,83,94,78,151,97"/>
+</map>

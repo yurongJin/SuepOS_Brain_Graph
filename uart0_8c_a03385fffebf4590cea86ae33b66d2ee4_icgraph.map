@@ -1,0 +1,7 @@
+<map id="uart0_init" name="uart0_init">
+<area shape="rect" id="Node000001" title=" " alt="" coords="152,31,236,56"/>
+<area shape="rect" id="Node000002" href="$shell_8c.html#a1b38f8da6a59f8bfdf013c0cf62c5065" title=" " alt="" coords="28,5,81,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,36,81,25,82,20,139,31"/>
+<area shape="rect" id="Node000003" href="$kernel_8c.html#aa75cd82293c8f20da246e44d5da5f2b5" title=" " alt="" coords="5,55,104,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="139,56,105,61,104,56,138,50"/>
+</map>

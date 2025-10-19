@@ -1,0 +1,7 @@
+<map id="uart0_get_char" name="uart0_get_char">
+<area shape="rect" id="Node000001" title=" " alt="" coords="229,5,348,31"/>
+<area shape="rect" id="Node000002" href="$uart0_8c.html#a08fff5c8ca193363d01b12bb487ac47c" title=" " alt="" coords="107,5,181,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,21,182,21,182,15,215,15"/>
+<area shape="rect" id="Node000003" href="$shell_8c.html#a1b38f8da6a59f8bfdf013c0cf62c5065" title=" " alt="" coords="5,5,59,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="93,21,59,21,59,15,93,15"/>
+</map>

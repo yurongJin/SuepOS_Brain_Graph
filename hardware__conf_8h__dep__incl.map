@@ -1,0 +1,24 @@
+<map id="hardware_conf.h" name="hardware_conf.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="287,5,416,31"/>
+<area shape="rect" id="Node000002" href="$kernel__func_8h.html" title=" " alt="" coords="241,79,350,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="336,43,306,80,302,77,331,40"/>
+<area shape="rect" id="Node000010" href="$uart0_8c.html" title=" " alt="" coords="374,79,441,104"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="371,40,400,77,396,80,367,43"/>
+<area shape="rect" id="Node000003" href="$cmd__table_8h.html" title=" " alt="" coords="5,152,108,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="245,110,96,154,95,149,243,105"/>
+<area shape="rect" id="Node000004" href="$shell_8c.html" title=" " alt="" coords="70,225,134,251"/>
+<area shape="poly" id="edge10_Node000002_Node000004" title=" " alt="" coords="250,112,211,130,173,154,136,192,111,226,107,223,132,188,170,150,208,125,248,107"/>
+<area shape="rect" id="Node000005" href="$kernel_8c.html" title=" " alt="" coords="184,152,257,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="275,115,235,154,231,150,272,111"/>
+<area shape="rect" id="Node000006" href="$mem__info_8h.html" title=" " alt="" coords="333,152,433,177"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="322,110,371,150,367,154,318,115"/>
+<area shape="rect" id="Node000007" href="$page__alloc_8c.html" title=" " alt="" coords="257,225,360,251"/>
+<area shape="poly" id="edge8_Node000002_Node000007" title=" " alt="" coords="300,118,310,225,305,225,295,118"/>
+<area shape="rect" id="Node000008" href="$scheduler_8c.html" title=" " alt="" coords="411,225,505,251"/>
+<area shape="poly" id="edge9_Node000002_Node000008" title=" " alt="" coords="351,105,409,126,433,138,448,150,458,169,463,189,462,225,457,225,457,190,453,171,444,154,430,142,407,131,350,111"/>
+<area shape="rect" id="Node000009" href="$usr__mode_8c.html" title=" " alt="" coords="509,152,607,177"/>
+<area shape="poly" id="edge11_Node000002_Node000009" title=" " alt="" coords="351,105,516,149,515,154,350,110"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="74,188,97,224,92,227,69,191"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="363,189,323,227,319,223,360,185"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="407,185,448,223,444,227,403,189"/>
+</map>

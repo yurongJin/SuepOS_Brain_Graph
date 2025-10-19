@@ -1,0 +1,11 @@
+<map id="mini_printf" name="mini_printf">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,26,99,51"/>
+<area shape="rect" id="Node000002" href="$uart0_8c.html#a25101a6b344e02d840568ef3d33b5b08" title=" " alt="" coords="380,26,499,51"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,23,146,11,239,3,332,11,383,20,382,25,332,16,239,8,147,16,92,28"/>
+<area shape="rect" id="Node000003" href="$uart0_8c.html#a67f62805cb45162f505346cb0ed7d2ef" title=" " alt="" coords="169,26,310,51"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="99,36,155,36,155,41,99,41"/>
+<area shape="rect" id="Node000004" href="$uart0_8c.html#ab670ad0f8990c412e0b7ded2e6797f26" title=" " alt="" coords="147,75,332,101"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="100,48,178,69,177,74,98,53"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="310,36,366,36,366,41,310,41"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="291,73,373,52,375,57,292,78"/>
+</map>

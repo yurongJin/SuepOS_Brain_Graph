@@ -1,0 +1,22 @@
+<map id="process_give_up" name="process_give_up">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,32,136,57"/>
+<area shape="rect" id="Node000002" href="$scheduler_8c.html#a6a006ad1cfbe8784659f68e9f9b73d89" title=" " alt="" coords="187,7,266,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,31,174,25,174,30,137,37"/>
+<area shape="rect" id="Node000003" href="$scheduler_8c.html#a9fa00b0be5d3c4781048861e2506eb63" title=" " alt="" coords="184,56,269,81"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="137,52,171,57,170,63,136,57"/>
+<area shape="rect" id="Node000004" href="$scheduler_8c.html#ab2e36c9731344cc9f977831826bd8185" title=" " alt="" coords="317,5,427,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="263,53,321,33,323,38,265,58"/>
+<area shape="rect" id="Node000005" href="$uart0_8c.html#a35a7eca18d1cb9276ea9e446617f044a" title=" " alt="" coords="475,31,568,56"/>
+<area shape="poly" id="edge11_Node000003_Node000005" title=" " alt="" coords="270,62,461,46,461,51,270,68"/>
+<area shape="rect" id="Node000009" href="$scheduler_8c.html#a773d2d5aeb9ccb75c62c427f0c250df7" title=" " alt="" coords="333,107,411,132"/>
+<area shape="poly" id="edge10_Node000003_Node000009" title=" " alt="" coords="265,79,323,100,321,105,263,84"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="427,25,462,31,461,36,426,30"/>
+<area shape="rect" id="Node000006" href="$uart0_8c.html#a25101a6b344e02d840568ef3d33b5b08" title=" " alt="" coords="849,31,968,56"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="560,28,616,15,709,8,802,15,852,25,851,30,801,21,709,13,616,21,561,33"/>
+<area shape="rect" id="Node000007" href="$uart0_8c.html#a67f62805cb45162f505346cb0ed7d2ef" title=" " alt="" coords="638,31,779,56"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="568,41,624,41,624,46,568,46"/>
+<area shape="rect" id="Node000008" href="$uart0_8c.html#ab670ad0f8990c412e0b7ded2e6797f26" title=" " alt="" coords="616,80,801,105"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="569,53,647,74,646,79,568,58"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="780,41,835,41,835,46,780,46"/>
+<area shape="poly" id="edge9_Node000008_Node000006" title=" " alt="" coords="760,77,843,57,844,62,761,83"/>
+</map>

@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['t0_0',['t0',['../structGPRegister__context.html#a9490c74b86c0a708c7642de311ac620f',1,'GPRegister_context']]],
+  ['t1_1',['t1',['../structGPRegister__context.html#a8db0043183d7f02a5991bd516f0742df',1,'GPRegister_context']]],
+  ['t2_2',['t2',['../structGPRegister__context.html#af2975adfa72783b00390955a00d477ac',1,'GPRegister_context']]],
+  ['t3_3',['t3',['../structGPRegister__context.html#a40f27c55fab3f61550329861f71cc60a',1,'GPRegister_context']]],
+  ['t4_4',['t4',['../structGPRegister__context.html#a96326baacbc20ca8243e7076bc9ffac4',1,'GPRegister_context']]],
+  ['t5_5',['t5',['../structGPRegister__context.html#af695abe66b30ae60886f3c4b51d7ced1',1,'GPRegister_context']]],
+  ['t6_6',['t6',['../structGPRegister__context.html#a003381abc25d7d0a96ddadbf5c31498f',1,'GPRegister_context']]],
+  ['tail_7',['tail',['../structProcQueue.html#adf1e3efa1874e77426b2c22084a28f94',1,'ProcQueue']]],
+  ['test_5ftask01_8',['test_task01',['../kernel__func_8h.html#a78a1dd5e8e2853c3dcd5f2d4da57159a',1,'test_task01(void):&#160;usr_mode.c'],['../usr__mode_8c.html#a78a1dd5e8e2853c3dcd5f2d4da57159a',1,'test_task01(void):&#160;usr_mode.c']]],
+  ['test_5ftask02_9',['test_task02',['../kernel__func_8h.html#acae953474a792b181887214714dcb862',1,'test_task02(void):&#160;usr_mode.c'],['../usr__mode_8c.html#acae953474a792b181887214714dcb862',1,'test_task02(void):&#160;usr_mode.c']]],
+  ['test_5ftask03_10',['test_task03',['../kernel__func_8h.html#ab96d1aab428fad484e42d6180ece7424',1,'test_task03(void):&#160;usr_mode.c'],['../usr__mode_8c.html#ab96d1aab428fad484e42d6180ece7424',1,'test_task03(void):&#160;usr_mode.c']]],
+  ['text_5fend_11',['TEXT_END',['../mem__info_8h.html#a39ef1f1a3eb475e4c36261f672b2b7ed',1,'mem_info.h']]],
+  ['text_5fentry_12',['TEXT_ENTRY',['../mem__info_8h.html#acff51aab7f02fef4e9e7f6fabe269a49',1,'mem_info.h']]],
+  ['thr_13',['THR',['../uart0_8c.html#a5e9787adf3c9afcc4b781e85bb545b35',1,'uart0.c']]],
+  ['tp_14',['tp',['../structGPRegister__context.html#ab18f292fecc26a072af5c9489122404a',1,'GPRegister_context']]],
+  ['type_2eh_15',['type.h',['../type_8h.html',1,'']]]
+];
